@@ -1,2 +1,2 @@
 # archaton.github.io
-A place where I can see my ideas, previous mistakes and some solutions.
+A place where one can see a couple of ideas, previous mistakes and some solutions.
